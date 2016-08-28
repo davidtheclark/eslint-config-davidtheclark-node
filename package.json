@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-davidtheclark-node",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My ESLint config for Node",
   "main": "index.js",
   "scripts": {
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/davidtheclark/eslint-config-davidtheclark-node/issues"
   },
-  "homepage": "https://github.com/davidtheclark/eslint-config-davidtheclark-node#readme"
+  "homepage": "https://github.com/davidtheclark/eslint-config-davidtheclark-node#readme",
+  "peerDependencies": {
+    "eslint-plugin-node": "^2.0.0"
+  }
 }
