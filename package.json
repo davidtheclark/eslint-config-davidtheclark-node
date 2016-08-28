@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-davidtheclark-node",
+  "version": "1.0.0",
+  "description": "My ESLint config for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtheclark/eslint-config-davidtheclark-node.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "config",
+    "node"
+  ],
+  "author": "David Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidtheclark/eslint-config-davidtheclark-node/issues"
+  },
+  "homepage": "https://github.com/davidtheclark/eslint-config-davidtheclark-node#readme"
+}
