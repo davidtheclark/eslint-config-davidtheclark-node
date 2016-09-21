@@ -19,7 +19,7 @@ module.exports = {
     "curly": ["error", "multi-line"],
     "eol-last": "error",
     "eqeqeq": ["error", "smart"],
-    "indent": ["error", 2],
+    "indent": ["error", 2, { "SwitchCase": 1 }],
     "no-confusing-arrow": ["error", {"allowParens": false}],
     "no-extend-native": "error",
     "no-mixed-spaces-and-tabs": "error",

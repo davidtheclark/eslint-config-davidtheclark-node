@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-davidtheclark-node",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "My ESLint config for Node",
   "main": "index.js",
   "scripts": {
