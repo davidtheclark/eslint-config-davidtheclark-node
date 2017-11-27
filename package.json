@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/davidtheclark/eslint-config-davidtheclark-node#readme",
   "peerDependencies": {
-    "eslint-plugin-node": "^2.0.0 || ^3.0.0"
+    "eslint-plugin-node": ">=2.0.0"
   }
 }
